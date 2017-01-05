@@ -1,0 +1,16 @@
+---
+
+galaxy_info:
+  author: Bruno Maurice
+  description: 
+  company: Inovia-Team
+  issue_tracker_url: https://gitlab.inovia.fr/ansible/phantomjs
+  license: Proprietary
+  min_ansible_version: 2.1
+  platforms:
+    - name: Ubuntu
+      versions:
+        - trusty
+  categories:
+    - system
+dependencies: []
