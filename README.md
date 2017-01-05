@@ -18,7 +18,7 @@ None.
 
     - hosts: server
       roles:
-        - { role: geerlingguy.nginx }
+        - { role: ansible-phantomjs }
 
 ## License
 
