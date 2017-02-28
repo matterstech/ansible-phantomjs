@@ -26,4 +26,4 @@ MIT / BSD
 
 ## Author Information
 
-This role was created in 2016 by [Bruno Maurice](https://gitlab.inovia.fr/u/bruno.maurice)
+This role was created in 2016 by [Bruno Maurice](https://github.com/brunoMaurice)

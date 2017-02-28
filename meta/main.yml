@@ -4,7 +4,7 @@ galaxy_info:
   author: Bruno Maurice
   description: "Install phantomjs 2.1.1"
   company: Inovia-Team
-  issue_tracker_url: https://gitlab.inovia.fr/ansible/phantomjs
+  issue_tracker_url: https://github.com/inovia-team/ansible-phantomjs
   license: Proprietary
   min_ansible_version: 2.1
   platforms:
